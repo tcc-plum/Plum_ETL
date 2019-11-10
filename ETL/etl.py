@@ -3,7 +3,7 @@ import master_fato as fat
 import time
 
 def ETL():
-    #dim.masterDimensao()
+    dim.masterDimensao()
     fat.masterFato()
 
 while True:
