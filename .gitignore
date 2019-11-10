@@ -1,0 +1,7 @@
+.vscode
+__pycache__
+env
+#ETL/dim/__pycache__
+#ETL/fat/__pycache__
+ETL/__pycache__
+DB/*
